@@ -1,11 +1,10 @@
 # baitapnhom3_java
 
 ## Giới Thiệu
-- **Giảng viên hướng dẫn : Nguyễn Văn Nam
-- **Nhóm sinh viên thực hiện: Nguyễn Huy Tỏa - 2251162175 
-                           Nguyễn Thiên Hương - 2251162030
-                           Nguyễn Khánh Huyền - 2251162039
--Bộ sưu tập bài tập Java từ cơ bản đến nâng cao để rèn luyện kỹ năng lập trình.
+- **Bài tập về nhà Java từ cơ bản đến nâng cao để rèn luyện kỹ năng lập trình.**
+- **Giảng viên bộ môn : Nguyễn Văn Nam**
+- **Nhóm sinh viên thực hiện : Nguyễn Huy Tỏa, Nguyễn Thiên Hương, Nguyễn Khánh Huyền**                     
+
 
 ## Yêu Cầu Môi Trường
 - **JDK 8+**
