@@ -5,19 +5,10 @@
 - **Giảng viên bộ môn : Nguyễn Văn Nam**
 - **Nhóm sinh viên thực hiện : Nguyễn Huy Tỏa, Nguyễn Thiên Hương, Nguyễn Khánh Huyền**                     
 
-
 ## Yêu Cầu Môi Trường
 - **JDK 8+**
 - **Trình biên dịch:** `javac`
 - **IDE khuyến nghị:** VS Code, IntelliJ IDEA, Eclipse
-
-## Cấu Trúc Thư Mục
-```
-/java_btnhom
-│── README.md
-│── src/        # Mã nguồn bài tập
-│── lib/        # Thư viện bổ trợ (nếu có)
-```
 
 ## Hướng Dẫn Chạy
 1. **Biên dịch:** `javac src/HelloWorld.java`
