@@ -1,9 +1,9 @@
-# baitapnhom3_java
+# baitapnhom18_java
 
 ## Giới Thiệu
 - **Bài tập về nhà Java từ cơ bản đến nâng cao để rèn luyện kỹ năng lập trình.**
 - **Giảng viên bộ môn : Nguyễn Văn Nam**
-- **Nhóm sinh viên thực hiện : Nguyễn Huy Tỏa, Nguyễn Thiên Hương, Nguyễn Khánh Huyền**                     
+- **Nhóm sinh viên thực hiện : Nguyễn Huy Tỏa, Nguyễn Mạnh Thắng,Đào Đình Hưng**                     
 
 ## Yêu Cầu Môi Trường
 - **JDK 8+**
